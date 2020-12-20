@@ -7,5 +7,6 @@
 !package-lock.json
 !src/**
 !static/**
+node_modules/**
 
 
